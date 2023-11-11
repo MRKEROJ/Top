@@ -1,5 +1,6 @@
 {
-  "version": "v2.0",
-  "versionCode": 200,
-  "zipUrl": "https://github.com/MRKEROJ/Top/raw/main/BurkanZygisk.zip",
+    "version": "4.0.1",
+    "versionCode": "401",
+    "zipUrl": "https://github.com/Lososeshka/O_Module/releases/download/%23O/o_module-3.0.zip",
+    "changelog": "Changelog.md"
 }
