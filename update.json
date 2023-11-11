@@ -1,6 +1,6 @@
 {
-    "version": "3.0",
-    "versionCode": "999",
+    "version": "2.0",
+    "versionCode": "2.0",
     "zipUrl": "https://github.com/MRKEROJ/Top/releases/download/KeroRelase/BurkanZygisk.zip",
-    "changelog": "Changelog.md"
+    "changelog": "https://raw.githubusercontent.com/MRKEROJ/Top/main/changelog.md"
 }
